@@ -1,0 +1,7 @@
+C:\Users\Adonay VM\Desktop\C#\Práctica 7\bin\Debug\Práctica 7.exe.config
+C:\Users\Adonay VM\Desktop\C#\Práctica 7\bin\Debug\Práctica 7.exe
+C:\Users\Adonay VM\Desktop\C#\Práctica 7\bin\Debug\Práctica 7.pdb
+C:\Users\Adonay VM\Desktop\C#\Práctica 7\obj\Debug\Práctica 7.csprojAssemblyReference.cache
+C:\Users\Adonay VM\Desktop\C#\Práctica 7\obj\Debug\Práctica 7.csproj.CoreCompileInputs.cache
+C:\Users\Adonay VM\Desktop\C#\Práctica 7\obj\Debug\Práctica 7.exe
+C:\Users\Adonay VM\Desktop\C#\Práctica 7\obj\Debug\Práctica 7.pdb
